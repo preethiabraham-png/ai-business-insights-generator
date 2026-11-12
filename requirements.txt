@@ -1,0 +1,5 @@
+streamlit==1.64.0
+pandas
+google-genai==2.32.0
+python-dotenv==1.2.4
+reportlab==5.1.0
